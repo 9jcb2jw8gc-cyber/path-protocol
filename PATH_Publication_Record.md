@@ -64,13 +64,24 @@ prior art for the PATH protocol. Keep this file alongside the paper.
   - `PATH_v4.0.pdf.ots` — OpenTimestamps Bitcoin proof
   - `LICENSE` — CC BY 4.0
   - `README.md` — full publication readme with DOI badge
+  - `PATH_Publication_Record.md` — this file
+
+---
+
+### LinkedIn Article (Public Amplification)
+- **Title:** The Accidental Standard
+- **URL:** https://www.linkedin.com/pulse/accidental-standard-james-pan-z7kec
+- **Published:** June 13, 2026
+- **Author:** James Pan (Individual article)
+- **Visibility:** Post to Anyone (public)
+- **Purpose:** Public narrative introducing PATH to professional network. Links to Zenodo DOI. Includes animated MP4 diagram of the proximity-mesh relay architecture as cover media.
 
 ---
 
 ## arXiv (Pending)
 - **Status:** Endorsement outreach in progress
 - **Target category:** `cs.CR` (Cryptography and Security), cross-list `cs.NI`
-- **Contact:** Dr. Prineha Narang, UCLA / arXiv Science Advisory Council (referral/endorser identification)
+- **Contact:** Dr. Prineha Narang, UCLA / arXiv Science Advisory Council — referral/endorser identification request sent June 13, 2026 via LinkedIn message
 - **Update this record** with the arXiv ID once accepted.
 
 ---
@@ -83,6 +94,7 @@ prior art for the PATH protocol. Keep this file alongside the paper.
 | Prior-art timestamp | DOI `10.5281/zenodo.20673141` | June 13, 2026 | CERN Zenodo |
 | Cryptographic proof | SHA256 `2f3997f...28f554` | June 13, 2026 | Bitcoin blockchain |
 | Public disclosure | github.com/9jcb2jw8gc-cyber/path-protocol | June 13, 2026 | GitHub (Microsoft) |
+| Public narrative | linkedin.com/pulse/accidental-standard-james-pan-z7kec | June 13, 2026 | LinkedIn |
 | Academic preprint | arXiv ID TBD | Pending | arXiv (Cornell) |
 
 The first three layers are independently verifiable without trusting any single institution.
@@ -110,4 +122,4 @@ Expected: `2f3997f133c9022292e37b44216189aec8b5ad045ecee3e8a6fc26b64628f554`
 
 ---
 
-*Record created June 13, 2026. Update with arXiv ID when available.*
+*Record created June 13, 2026. Last updated June 13, 2026. Update with arXiv ID when available.*
