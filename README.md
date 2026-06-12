@@ -5,7 +5,7 @@
 James Pan · 8Bit Labs LLC · Irvine, California
 Version 4.0 — June 2026
 
-[![DOI](https://img.shields.io/badge/DOI-pending-blue.svg)](https://zenodo.org)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20673141-blue.svg)](https://doi.org/10.5281/zenodo.20673141)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -71,11 +71,11 @@ This work is released as a defensive publication. If you build on it, please cit
 
 > Pan, J. (2026). *PATH — Protocol for Autonomous Traversal and Handshake: A
 > Threshold-Cryptographic Overlay for Heterogeneous and Non-Terrestrial Transport*
-> (Version 4.0). Zenodo. https://doi.org/[DOI-here]
+> (Version 4.0). Zenodo. https://doi.org/10.5281/zenodo.20673141
 
 A canonical, timestamped copy is archived at:
 
-- **Zenodo (DOI of record):** `[paste DOI after upload]`
+- **Zenodo (DOI of record):** https://doi.org/10.5281/zenodo.20673141
 - **arXiv:** `[paste arXiv ID after acceptance]`
 - **OpenTimestamps proof:** `PATH_v4.0.pdf.ots` in this repo (Bitcoin-anchored proof of the exact file bytes and date)
 
@@ -88,4 +88,4 @@ provided you give appropriate credit.
 
 ## Contact
 
-James Pan — 8Bit Labs LLC — `[your contact email]`
+James Pan — 8Bit Labs LLC — james@8bitjj.com
